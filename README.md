@@ -1,9 +1,7 @@
 ### Olá, Eu sou Anderson Barreto
 
-- 👀 Designer e Desenvolvedor Front-End
-- 🌱 Atualmente estudo JavaScript e React
-![Preview Lading Page](/https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
+## Quem eu sou?
+Desenvolverdor Front-End e designer.
  
 ## Contato
 📧 andersondiasmd25@gmail.com
