@@ -29,7 +29,7 @@
 <h2 align="center">Quem eu sou?</h2>
 <p align="center">
  Sou designer e <strong>desenvolvedor web (Front-end)</strong>. <br>
-Atualmente estudo a fundos o React-js / Javascript.
+Atualmente estudando React-js e Javascript. 
 </p>
 
 <div align="center">
