@@ -4,7 +4,7 @@
 
 <div align="center">
  
- <a href="https://www.instagram.com/odesigneranderson/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white"> </a> <a href="https://www.linkedin.com/in/anderson-barreto-bb7b3122b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"> </a> <a href="https://www.behance.net/andersonddesigner"><img src="https://aleen42.github.io/badges/src/behance.svg"></a>
+ <a href="https://www.instagram.com/odesigneranderson/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white"> <a href="https://twitter.com/andersonDev__"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> </a> <a href="https://www.linkedin.com/in/anderson-barreto-bb7b3122b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"> </a> <a href="https://www.behance.net/andersonddesigner"><img src="https://aleen42.github.io/badges/src/behance.svg"></a>
 
 </div>
 
