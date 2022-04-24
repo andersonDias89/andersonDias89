@@ -28,8 +28,7 @@
 
 <h3 align="center">Quem eu sou?</h2>
 <h4 align="center">
- Sou designer e <strong>desenvolvedor web (Front-end)</strong>. <br>
-Atualmente estudando React-js e Javascript. 
+ <strong>Desenvolvedor Front-end</strong>. Cursando Análise e Desenvolvimento de Sistemas.
 </h3>
 
 <div align="center">
