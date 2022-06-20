@@ -1,6 +1,6 @@
 
  
-<h1 align="center">Olá, sou Anderson Dias - Desenvolvedor Front-end</h1>
+<h3 align="center">Olá, sou Anderson Dias - Desenvolvedor Front-end</h1>
 
 <div align="center">
  
@@ -14,7 +14,11 @@
 
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andersonDias89&show_icons=true&theme=radical) ![Anurag's Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonDias89&theme=blue-green) 
+<div align="center">
+  <a href="https://github.com/andersondias89">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersondias89&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersondias89&layout=compact&langs_count=7&theme=github_dark"/>
+</div> 
  
 
      
