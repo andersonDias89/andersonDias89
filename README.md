@@ -5,7 +5,7 @@
 
 </div>
 
-<h1>Olá, sou Anderson Dias - Desenvolvedor Front-end 👋</h1>
+<h1>Anderson Dias - Desenvolvedor Full Stack 👋</h1>
 
 
 
