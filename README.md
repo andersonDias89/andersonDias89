@@ -26,10 +26,6 @@
 </div>
 
 
-<h3>Quem eu sou?</h2>
-<h4>
- <strong>Desenvolvedor Front-end Jr.</strong> Cursando Análise e Desenvolvimento de Sistemas.
-</h3>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="dias-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
