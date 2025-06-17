@@ -9,14 +9,6 @@
 
   <hr />
 
-  <!-- Trophy Section -->
-  <h3>🏆 Conquistas no GitHub</h3>
- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=andersondias89&theme=onedark&no-frame=true&no-bg=true&margin-w=10" />
-</p>
-
-  <br />
-
   <!-- GitHub Stats -->
   <h3>📊 Estatísticas do GitHub</h3>
   <div>
