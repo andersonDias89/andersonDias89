@@ -1,42 +1,38 @@
+<div align="center">
 
-<div align='center'>
- 
- <a href="https://www.instagram.com/andersondias_dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white"> <a href="https://twitter.com/andersonDev__"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> </a> <a href="https://www.linkedin.com/in/anderson-barreto-bb7b3122b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"> </a> 
+  <h1>Anderson Dias 👨‍💻</h1>
+  <h3>Desenvolvedor Full Stack | JavaScript • TypeScript • NestJS • Next.js • Docker</h3>
+
+  <p>Transformando ideias em aplicações robustas e escaláveis com tecnologias modernas.</p>
+
+  <a href="https://www.linkedin.com/in/anderson-barreto-bb7b3122b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+
+  <hr />
+
+  <!-- GitHub Stats -->
+  <div>
+    <a href="https://github.com/andersondias89">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersondias89&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersondias89&layout=compact&langs_count=8&theme=github_dark" />
+    </a>
+  </div>
+
+  <br />
+
+  <!-- Tech Stack -->
+  <h3>🧠 Tech Stack & Ferramentas</h3>
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  </p>
 
 </div>
-
-<h1>Anderson Dias - Desenvolvedor Full Stack 👋</h1>
-
-
-
-<hr>
- 
-
-
-<div>
-
-<div>
-  <a href="https://github.com/andersondias89">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersondias89&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersondias89&layout=compact&langs_count=7&theme=github_dark"/>
-</div> 
- 
-
-     
-</div>
-
-
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="dias-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="dias-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="dias-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-</div>
-
-
-
-
-
-
-
-
