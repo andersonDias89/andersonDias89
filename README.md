@@ -4,7 +4,7 @@
   <h3>Desenvolvedor Full Stack | JavaScript • TypeScript • NestJS • Next.js • Docker</h3>
 
   <a href="https://www.linkedin.com/in/anderson-barreto-bb7b3122b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://www.linkedin.com/in/anderson-dias-bb7b3122b/" alt="LinkedIn">
   </a>
 
   <hr />
