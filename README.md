@@ -11,15 +11,24 @@
 
   <hr />
 
-  <!-- GitHub Stats -->
-  <div>
-    <a href="https://github.com/andersondias89">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersondias89&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersondias89&layout=compact&langs_count=8&theme=github_dark" />
-    </a>
-  </div>
+  <!-- Trophy Section -->
+  <h3>🏆 Conquistas no GitHub</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=andersondias89&theme=darkhub&margin-w=10&no-frame=true&title=Stars,Commits,PullRequest,Repositories,Followers" />
 
   <br />
+
+  <!-- GitHub Stats -->
+  <h3>📊 Estatísticas do GitHub</h3>
+  <div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersondias89&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersondias89&layout=compact&langs_count=10&theme=radical" />
+  </div>
+
+  <!-- GitHub Streak -->
+  <br />
+  <img src="https://streak-stats.demolab.com?user=andersondias89&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+
+  <br /><br />
 
   <!-- Tech Stack -->
   <h3>🧠 Tech Stack & Ferramentas</h3>
@@ -28,9 +37,11 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   </p>
 
 </div>
