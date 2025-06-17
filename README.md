@@ -3,8 +3,6 @@
   <h1>Anderson Dias 👨‍💻</h1>
   <h3>Desenvolvedor Full Stack | JavaScript • TypeScript • NestJS • Next.js • Docker</h3>
 
-  <p>Transformando ideias em aplicações robustas e escaláveis com tecnologias modernas.</p>
-
   <a href="https://www.linkedin.com/in/anderson-barreto-bb7b3122b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -13,7 +11,9 @@
 
   <!-- Trophy Section -->
   <h3>🏆 Conquistas no GitHub</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=andersondias89&theme=darkhub&margin-w=10&no-frame=true&title=Stars,Commits,PullRequest,Repositories,Followers" />
+ <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=andersondias89&theme=onedark&no-frame=true&no-bg=true&margin-w=10" />
+</p>
 
   <br />
 
